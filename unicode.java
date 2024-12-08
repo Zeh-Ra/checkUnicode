@@ -1,4 +1,3 @@
-package unicode;
 
 public class unicode {
 
